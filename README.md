@@ -1,4 +1,4 @@
-# DigitalSongShu
+# Digital SongShu Project
 
 The HackMD notes for this project can be found at:
 
