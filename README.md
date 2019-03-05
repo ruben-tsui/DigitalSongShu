@@ -11,3 +11,8 @@ https://hackmd.io/NlDYjUpwROuRR88fIOb5fw?both#
 <code>CompileNamesFromChineseWebsite.ipynb</code>
   - Compile list of personal names from the Chinese bio website for the same dynasties
   - Combine this list with the list above to create the file <code>BioCombinedSorted.xlsx</code> (note that single-character entries are deleted)
+
+<code>SongShu.tagging.ipynb</code>
+  - Tag the SongShu texts from Hanji database using
+    - <code>BioCombinedSorted.xlsx</code> from above
+    - <code>劉宋地名與官名 2017-11-14.xlsx</code>
