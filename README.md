@@ -10,4 +10,4 @@ https://hackmd.io/NlDYjUpwROuRR88fIOb5fw?both#
   
 <code>CompileNamesFromChineseWebsite.ipynb</code>
   - Compile list of personal names from the Chinese bio website for the same dynasties
-  - Combine this list with the list above to create the file <code>BioCombinedSorted.xlsx</code>
+  - Combine this list with the list above to create the file <code>BioCombinedSorted.xlsx</code> (note that single-character entries are deleted)
