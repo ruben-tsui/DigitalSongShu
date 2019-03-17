@@ -8,3 +8,12 @@ Register for and download CKIPWS from:
 
 http://ckipsvr.iis.sinica.edu.tw/ckipws/reg.php
 
+Folder structure:
+
+CKIPWS -------- songshu.all.zht.txt
+   |      |---- songshu.py
+   |      |---- ws.ini
+   |    
+   |-------- Data2
+               |---- MyNewNEs_u8.txt (combined from the 5 categories of NEs)
+  
