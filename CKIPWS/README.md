@@ -10,6 +10,7 @@ http://ckipsvr.iis.sinica.edu.tw/ckipws/reg.php
 
 Folder structure:
 
+<code>
 CKIPWS -------- songshu.all.zht.txt
    |      |---- songshu.py
    |      |---- ws.ini
@@ -17,3 +18,4 @@ CKIPWS -------- songshu.all.zht.txt
    |-------- Data2
                |---- MyNewNEs_u8.txt (combined from the 5 categories of NEs)
   
+</code>
