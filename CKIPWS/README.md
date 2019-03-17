@@ -10,7 +10,7 @@ http://ckipsvr.iis.sinica.edu.tw/ckipws/reg.php
 
 Folder structure:
 
-<code>
+    <code>
     CKIPWS -------- songshu.all.zht.txt
        |      |---- songshu.py
        |      |---- ws.ini
